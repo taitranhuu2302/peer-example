@@ -1,4 +1,4 @@
-Live Demo: [https://talking-dev-b1361.web.app/](https://talking-dev-b1361.web.app/) to view it in the browser.
+Live Demo: [http://taitranhuu1908.github.io/peer-example](http://taitranhuu1908.github.io/peer-example) to view it in the browser.
 
 # Getting Started with Create React App
 
